@@ -30,8 +30,6 @@ This project is fully based on python. So, the necessary modules needed for comp
 
 
 ```bash
-  
-
   pip install numpy
   pip install sklearn
   pip install matplotlib
